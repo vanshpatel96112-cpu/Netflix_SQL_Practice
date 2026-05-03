@@ -1,10 +1,10 @@
-#Netflix SQL Analysis
+Netflix SQL Analysis
 This project contains SQL queries using Netflix dataset.
 
-#Dataset
+Dataset
 Netflix titles dataset
 
-#SQL Concepts Used
+SQL Concepts Used
 GROUP BY
 HAVING
 Subqueries
@@ -12,8 +12,7 @@ CTE
 CASE
 NULL handling
 Aggregate functions
-
-#Queries Included
+Queries Included
 Medium level queries
 Hard level queries
 Logical SQL questions
